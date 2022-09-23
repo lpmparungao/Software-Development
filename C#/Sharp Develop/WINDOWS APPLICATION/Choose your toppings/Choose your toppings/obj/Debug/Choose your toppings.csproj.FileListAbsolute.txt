@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Choose your toppings\Choose your toppings\bin\Debug\Choose your toppings.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Choose your toppings\Choose your toppings\bin\Debug\Choose your toppings.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Choose your toppings\Choose your toppings\bin\Debug\Choose your toppings.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Choose your toppings\Choose your toppings\obj\Debug\Choose your toppings.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Choose your toppings\Choose your toppings\obj\Debug\Choose_your_toppings.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Choose your toppings\Choose your toppings\obj\Debug\Choose your toppings.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Choose your toppings\Choose your toppings\obj\Debug\Choose your toppings.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Choose your toppings\Choose your toppings\obj\Debug\Choose your toppings.pdb

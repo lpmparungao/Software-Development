@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\SharpDevelop Projects\Convert\Convert\bin\Debug\Convert.exe.config
+C:\Users\asus\Documents\SharpDevelop Projects\Convert\Convert\bin\Debug\Convert.exe
+C:\Users\asus\Documents\SharpDevelop Projects\Convert\Convert\bin\Debug\Convert.pdb
+C:\Users\asus\Documents\SharpDevelop Projects\Convert\Convert\obj\Debug\Convert.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\SharpDevelop Projects\Convert\Convert\obj\Debug\Convert.MainForm.resources
+C:\Users\asus\Documents\SharpDevelop Projects\Convert\Convert\obj\Debug\Convert.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\SharpDevelop Projects\Convert\Convert\obj\Debug\Convert.exe
+C:\Users\asus\Documents\SharpDevelop Projects\Convert\Convert\obj\Debug\Convert.pdb

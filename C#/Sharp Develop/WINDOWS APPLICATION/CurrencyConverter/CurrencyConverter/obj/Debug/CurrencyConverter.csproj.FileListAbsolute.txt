@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\SharpDevelop Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\SharpDevelop Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.MainForm.resources
+C:\Users\asus\Documents\SharpDevelop Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\SharpDevelop Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\asus\Documents\SharpDevelop Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\asus\Documents\SharpDevelop Projects\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\asus\Documents\SharpDevelop Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\asus\Documents\SharpDevelop Projects\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb

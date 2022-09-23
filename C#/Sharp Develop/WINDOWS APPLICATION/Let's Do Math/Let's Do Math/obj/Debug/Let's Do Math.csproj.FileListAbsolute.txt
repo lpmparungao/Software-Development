@@ -1,0 +1,16 @@
+C:\Users\ACER\Desktop\C# jurie\lecture 02-22-2020\Let's Do Math\Let's Do Math\bin\Debug\Let's Do Math.exe.config
+C:\Users\ACER\Desktop\C# jurie\lecture 02-22-2020\Let's Do Math\Let's Do Math\bin\Debug\Let's Do Math.exe
+C:\Users\ACER\Desktop\C# jurie\lecture 02-22-2020\Let's Do Math\Let's Do Math\bin\Debug\Let's Do Math.pdb
+C:\Users\ACER\Desktop\C# jurie\lecture 02-22-2020\Let's Do Math\Let's Do Math\obj\Debug\Let's Do Math.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\C# jurie\lecture 02-22-2020\Let's Do Math\Let's Do Math\obj\Debug\Let_s_Do_Math.MainForm.resources
+C:\Users\ACER\Desktop\C# jurie\lecture 02-22-2020\Let's Do Math\Let's Do Math\obj\Debug\Let's Do Math.csproj.GenerateResource.Cache
+C:\Users\ACER\Desktop\C# jurie\lecture 02-22-2020\Let's Do Math\Let's Do Math\obj\Debug\Let's Do Math.exe
+C:\Users\ACER\Desktop\C# jurie\lecture 02-22-2020\Let's Do Math\Let's Do Math\obj\Debug\Let's Do Math.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Let's Do Math\Let's Do Math\bin\Debug\Let's Do Math.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Let's Do Math\Let's Do Math\bin\Debug\Let's Do Math.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Let's Do Math\Let's Do Math\bin\Debug\Let's Do Math.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Let's Do Math\Let's Do Math\obj\Debug\Let's Do Math.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Let's Do Math\Let's Do Math\obj\Debug\Let_s_Do_Math.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Let's Do Math\Let's Do Math\obj\Debug\Let's Do Math.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Let's Do Math\Let's Do Math\obj\Debug\Let's Do Math.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Let's Do Math\Let's Do Math\obj\Debug\Let's Do Math.pdb

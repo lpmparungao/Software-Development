@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Practical 1\Practical 1\bin\Debug\Practical 1.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Practical 1\Practical 1\bin\Debug\Practical 1.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Practical 1\Practical 1\bin\Debug\Practical 1.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Practical 1\Practical 1\obj\Debug\Practical 1.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Practical 1\Practical 1\obj\Debug\Practical_1.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Practical 1\Practical 1\obj\Debug\Practical 1.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Practical 1\Practical 1\obj\Debug\Practical 1.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Practical 1\Practical 1\obj\Debug\Practical 1.pdb

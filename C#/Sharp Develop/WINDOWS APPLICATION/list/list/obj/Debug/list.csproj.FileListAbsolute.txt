@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\list\list\obj\Debug\list.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\list\list\obj\Debug\list.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\list\list\obj\Debug\list.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\list\list\bin\Debug\list.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\list\list\bin\Debug\list.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\list\list\bin\Debug\list.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\list\list\obj\Debug\list.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\list\list\obj\Debug\list.pdb

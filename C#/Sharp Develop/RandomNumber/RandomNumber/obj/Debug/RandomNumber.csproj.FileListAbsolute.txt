@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\SharpDevelop Projects\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\SharpDevelop Projects\RandomNumber\RandomNumber\obj\Debug\RandomNumber.MainForm.resources
+C:\Users\asus\Documents\SharpDevelop Projects\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\SharpDevelop Projects\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe.config
+C:\Users\asus\Documents\SharpDevelop Projects\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe
+C:\Users\asus\Documents\SharpDevelop Projects\RandomNumber\RandomNumber\bin\Debug\RandomNumber.pdb
+C:\Users\asus\Documents\SharpDevelop Projects\RandomNumber\RandomNumber\obj\Debug\RandomNumber.exe
+C:\Users\asus\Documents\SharpDevelop Projects\RandomNumber\RandomNumber\obj\Debug\RandomNumber.pdb

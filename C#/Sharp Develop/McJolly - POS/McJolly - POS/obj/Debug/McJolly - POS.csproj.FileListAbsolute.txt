@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\SharpDevelop Projects\McJolly - POS\McJolly - POS\obj\Debug\McJolly - POS.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\SharpDevelop Projects\McJolly - POS\McJolly - POS\obj\Debug\McJolly___POS.MainForm.resources
+C:\Users\asus\Documents\SharpDevelop Projects\McJolly - POS\McJolly - POS\obj\Debug\McJolly - POS.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\SharpDevelop Projects\McJolly - POS\McJolly - POS\bin\Debug\McJolly - POS.exe.config
+C:\Users\asus\Documents\SharpDevelop Projects\McJolly - POS\McJolly - POS\bin\Debug\McJolly - POS.exe
+C:\Users\asus\Documents\SharpDevelop Projects\McJolly - POS\McJolly - POS\bin\Debug\McJolly - POS.pdb
+C:\Users\asus\Documents\SharpDevelop Projects\McJolly - POS\McJolly - POS\obj\Debug\McJolly - POS.exe
+C:\Users\asus\Documents\SharpDevelop Projects\McJolly - POS\McJolly - POS\obj\Debug\McJolly - POS.pdb

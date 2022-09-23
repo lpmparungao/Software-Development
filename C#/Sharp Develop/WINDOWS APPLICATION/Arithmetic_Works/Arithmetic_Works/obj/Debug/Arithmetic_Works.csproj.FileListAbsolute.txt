@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Arithmetic_Works\Arithmetic_Works\bin\Debug\Arithmetic_Works.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Arithmetic_Works\Arithmetic_Works\bin\Debug\Arithmetic_Works.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Arithmetic_Works\Arithmetic_Works\bin\Debug\Arithmetic_Works.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Arithmetic_Works\Arithmetic_Works\bin\Debug\Arithmetic_Works.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Arithmetic_Works\Arithmetic_Works\bin\Debug\Arithmetic_Works.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Arithmetic_Works\Arithmetic_Works\bin\Debug\Arithmetic_Works.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Arithmetic_Works\Arithmetic_Works\obj\Debug\Arithmetic_Works.pdb

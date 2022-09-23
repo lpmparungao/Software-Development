@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Radio Button Example\Radio Button Example\obj\Debug\Radio Button Example.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Radio Button Example\Radio Button Example\obj\Debug\Radio_Button_Example.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Radio Button Example\Radio Button Example\obj\Debug\Radio Button Example.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Radio Button Example\Radio Button Example\bin\Debug\Radio Button Example.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Radio Button Example\Radio Button Example\bin\Debug\Radio Button Example.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Radio Button Example\Radio Button Example\bin\Debug\Radio Button Example.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Radio Button Example\Radio Button Example\obj\Debug\Radio Button Example.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Radio Button Example\Radio Button Example\obj\Debug\Radio Button Example.pdb

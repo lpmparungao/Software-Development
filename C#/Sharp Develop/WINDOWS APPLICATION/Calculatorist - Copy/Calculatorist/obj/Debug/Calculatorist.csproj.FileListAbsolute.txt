@@ -1,0 +1,16 @@
+C:\Users\Calvin\Documents\SharpDevelop Projects\Calculatorist\Calculatorist\bin\Debug\Calculatorist.exe.config
+C:\Users\Calvin\Documents\SharpDevelop Projects\Calculatorist\Calculatorist\bin\Debug\Calculatorist.exe
+C:\Users\Calvin\Documents\SharpDevelop Projects\Calculatorist\Calculatorist\bin\Debug\Calculatorist.pdb
+C:\Users\Calvin\Documents\SharpDevelop Projects\Calculatorist\Calculatorist\obj\Debug\Calculatorist.csprojResolveAssemblyReference.cache
+C:\Users\Calvin\Documents\SharpDevelop Projects\Calculatorist\Calculatorist\obj\Debug\Calculatorist.MainForm.resources
+C:\Users\Calvin\Documents\SharpDevelop Projects\Calculatorist\Calculatorist\obj\Debug\Calculatorist.csproj.GenerateResource.Cache
+C:\Users\Calvin\Documents\SharpDevelop Projects\Calculatorist\Calculatorist\obj\Debug\Calculatorist.exe
+C:\Users\Calvin\Documents\SharpDevelop Projects\Calculatorist\Calculatorist\obj\Debug\Calculatorist.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Calculatorist - Copy\Calculatorist\bin\Debug\Calculatorist.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Calculatorist - Copy\Calculatorist\bin\Debug\Calculatorist.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Calculatorist - Copy\Calculatorist\bin\Debug\Calculatorist.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Calculatorist - Copy\Calculatorist\obj\Debug\Calculatorist.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Calculatorist - Copy\Calculatorist\obj\Debug\Calculatorist.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Calculatorist - Copy\Calculatorist\obj\Debug\Calculatorist.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Calculatorist - Copy\Calculatorist\obj\Debug\Calculatorist.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Calculatorist - Copy\Calculatorist\obj\Debug\Calculatorist.pdb

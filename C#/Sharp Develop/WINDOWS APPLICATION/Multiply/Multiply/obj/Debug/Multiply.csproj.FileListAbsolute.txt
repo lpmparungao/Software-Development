@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Multiply\Multiply\bin\Debug\Multiply.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Multiply\Multiply\bin\Debug\Multiply.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Multiply\Multiply\bin\Debug\Multiply.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Multiply\Multiply\obj\Debug\Multiply.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Multiply\Multiply\obj\Debug\Multiply.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Multiply\Multiply\obj\Debug\Multiply.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Multiply\Multiply\obj\Debug\Multiply.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Multiply\Multiply\obj\Debug\Multiply.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Multiply\Multiply\bin\Debug\Multiply.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Multiply\Multiply\bin\Debug\Multiply.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Multiply\Multiply\bin\Debug\Multiply.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Multiply\Multiply\obj\Debug\Multiply.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Multiply\Multiply\obj\Debug\Multiply.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Multiply\Multiply\obj\Debug\Multiply.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Multiply\Multiply\obj\Debug\Multiply.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Multiply\Multiply\obj\Debug\Multiply.pdb

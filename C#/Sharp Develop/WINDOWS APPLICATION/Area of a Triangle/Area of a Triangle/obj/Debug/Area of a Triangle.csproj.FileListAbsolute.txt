@@ -1,0 +1,16 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Area of a Triangle\Area of a Triangle\bin\Debug\Area of a Triangle.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Area of a Triangle\Area of a Triangle\bin\Debug\Area of a Triangle.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Area of a Triangle\Area of a Triangle\bin\Debug\Area of a Triangle.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Area of a Triangle\Area of a Triangle\obj\Debug\Area of a Triangle.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Area of a Triangle\Area of a Triangle\obj\Debug\Area_of_a_Triangle.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Area of a Triangle\Area of a Triangle\obj\Debug\Area of a Triangle.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Area of a Triangle\Area of a Triangle\obj\Debug\Area of a Triangle.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\Area of a Triangle\Area of a Triangle\obj\Debug\Area of a Triangle.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Area of a Triangle\Area of a Triangle\bin\Debug\Area of a Triangle.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Area of a Triangle\Area of a Triangle\bin\Debug\Area of a Triangle.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Area of a Triangle\Area of a Triangle\bin\Debug\Area of a Triangle.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Area of a Triangle\Area of a Triangle\obj\Debug\Area of a Triangle.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Area of a Triangle\Area of a Triangle\obj\Debug\Area_of_a_Triangle.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Area of a Triangle\Area of a Triangle\obj\Debug\Area of a Triangle.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Area of a Triangle\Area of a Triangle\obj\Debug\Area of a Triangle.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Area of a Triangle\Area of a Triangle\obj\Debug\Area of a Triangle.pdb

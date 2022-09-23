@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Positive or negative\Positive or negative\obj\Debug\Positive or negative.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Positive or negative\Positive or negative\obj\Debug\Positive_or_negative.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Positive or negative\Positive or negative\obj\Debug\Positive or negative.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Positive or negative\Positive or negative\bin\Debug\Positive or negative.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Positive or negative\Positive or negative\bin\Debug\Positive or negative.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Positive or negative\Positive or negative\bin\Debug\Positive or negative.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Positive or negative\Positive or negative\obj\Debug\Positive or negative.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Positive or negative\Positive or negative\obj\Debug\Positive or negative.pdb

@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\SharpDevelop Projects\ColorMix\ColorMix\bin\Debug\ColorMix.exe.config
+C:\Users\asus\Documents\SharpDevelop Projects\ColorMix\ColorMix\bin\Debug\ColorMix.exe
+C:\Users\asus\Documents\SharpDevelop Projects\ColorMix\ColorMix\bin\Debug\ColorMix.pdb
+C:\Users\asus\Documents\SharpDevelop Projects\ColorMix\ColorMix\obj\Debug\ColorMix.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\SharpDevelop Projects\ColorMix\ColorMix\obj\Debug\ColorMix.MainForm.resources
+C:\Users\asus\Documents\SharpDevelop Projects\ColorMix\ColorMix\obj\Debug\ColorMix.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\SharpDevelop Projects\ColorMix\ColorMix\obj\Debug\ColorMix.exe
+C:\Users\asus\Documents\SharpDevelop Projects\ColorMix\ColorMix\obj\Debug\ColorMix.pdb

@@ -1,0 +1,20 @@
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\bin\Debug\Login.exe.config
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\bin\Debug\Login.exe
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\bin\Debug\Login.pdb
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.Form1.resources
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.exe
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.pdb
+C:\Users\asus\Documents\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.LoginForm.resources
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\bin\Debug\Login.exe.config
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\bin\Debug\Login.exe
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\bin\Debug\Login.pdb
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.Form1.resources
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.LoginForm.resources
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.exe
+C:\Users\asus\Documents\College files\Programs\VISUAL STUDIO\C# PRACTICE\Login\obj\Debug\Login.pdb

@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Letter Grade Equivalent\Letter Grade Equivalent\obj\Debug\Letter Grade Equivalent.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Letter Grade Equivalent\Letter Grade Equivalent\obj\Debug\Letter_Grade_Equivalent.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Letter Grade Equivalent\Letter Grade Equivalent\obj\Debug\Letter Grade Equivalent.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Letter Grade Equivalent\Letter Grade Equivalent\bin\Debug\Letter Grade Equivalent.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Letter Grade Equivalent\Letter Grade Equivalent\bin\Debug\Letter Grade Equivalent.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Letter Grade Equivalent\Letter Grade Equivalent\bin\Debug\Letter Grade Equivalent.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Letter Grade Equivalent\Letter Grade Equivalent\obj\Debug\Letter Grade Equivalent.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Letter Grade Equivalent\Letter Grade Equivalent\obj\Debug\Letter Grade Equivalent.pdb

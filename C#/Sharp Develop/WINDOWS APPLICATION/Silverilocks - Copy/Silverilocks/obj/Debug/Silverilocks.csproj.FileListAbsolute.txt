@@ -1,0 +1,16 @@
+C:\Users\Calvin\Documents\SharpDevelop Projects\Silverilocks\Silverilocks\bin\Debug\Silverilocks.exe.config
+C:\Users\Calvin\Documents\SharpDevelop Projects\Silverilocks\Silverilocks\bin\Debug\Silverilocks.exe
+C:\Users\Calvin\Documents\SharpDevelop Projects\Silverilocks\Silverilocks\bin\Debug\Silverilocks.pdb
+C:\Users\Calvin\Documents\SharpDevelop Projects\Silverilocks\Silverilocks\obj\Debug\Silverilocks.csprojResolveAssemblyReference.cache
+C:\Users\Calvin\Documents\SharpDevelop Projects\Silverilocks\Silverilocks\obj\Debug\Silverilocks.MainForm.resources
+C:\Users\Calvin\Documents\SharpDevelop Projects\Silverilocks\Silverilocks\obj\Debug\Silverilocks.csproj.GenerateResource.Cache
+C:\Users\Calvin\Documents\SharpDevelop Projects\Silverilocks\Silverilocks\obj\Debug\Silverilocks.exe
+C:\Users\Calvin\Documents\SharpDevelop Projects\Silverilocks\Silverilocks\obj\Debug\Silverilocks.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Silverilocks - Copy\Silverilocks\bin\Debug\Silverilocks.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Silverilocks - Copy\Silverilocks\bin\Debug\Silverilocks.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Silverilocks - Copy\Silverilocks\bin\Debug\Silverilocks.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Silverilocks - Copy\Silverilocks\obj\Debug\Silverilocks.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Silverilocks - Copy\Silverilocks\obj\Debug\Silverilocks.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Silverilocks - Copy\Silverilocks\obj\Debug\Silverilocks.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Silverilocks - Copy\Silverilocks\obj\Debug\Silverilocks.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\Silverilocks - Copy\Silverilocks\obj\Debug\Silverilocks.pdb

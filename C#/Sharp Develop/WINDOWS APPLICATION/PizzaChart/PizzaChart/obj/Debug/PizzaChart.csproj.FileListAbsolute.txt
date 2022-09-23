@@ -1,0 +1,8 @@
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\PizzaChart\PizzaChart\obj\Debug\PizzaChart.csprojResolveAssemblyReference.cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\PizzaChart\PizzaChart\obj\Debug\PizzaChart.MainForm.resources
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\PizzaChart\PizzaChart\obj\Debug\PizzaChart.csproj.GenerateResource.Cache
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\PizzaChart\PizzaChart\bin\Debug\PizzaChart.exe.config
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\PizzaChart\PizzaChart\bin\Debug\PizzaChart.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\PizzaChart\PizzaChart\bin\Debug\PizzaChart.pdb
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\PizzaChart\PizzaChart\obj\Debug\PizzaChart.exe
+C:\Users\asus\Documents\Programs\SHARPDEVELOP\WINDOWS APPLICATION\PizzaChart\PizzaChart\obj\Debug\PizzaChart.pdb
